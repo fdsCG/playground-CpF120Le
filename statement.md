@@ -1,6 +1,6 @@
 # Welcome!
 
-This Java template lets you get started quickly with a simple one-page playground.ssss
+This Java template lets you get started quickly with a simple one-page playground.
 
 ```java runnable
 // { autofold

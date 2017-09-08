@@ -153,7 +153,7 @@ const incremented = values.map(element => element + 1);
 console.log(incremented);
 ```
 
-An arrow function can either return an expression directly (as is the case here), or have a normal body with statements if it begins with `{`. This means that if you want to return an object directly you should wrap it in parentheses. An arrow function with 0 parameters or more than 1 parameter must have a list of parameters in parentheses:
+An arrow function can either return an expression directly (as is the case here), or have a normal body with statements if it begins with `{`. This means that if you want to return an object directly you should wrap it in parentheses. An arrow function with 0 parameters or more than 1 parameter must have a list of parameters in parentheses:aaa
 
 ```javascript
 const add = (x, y) => x + y;

@@ -1,4 +1,4 @@
 ```javascript runnable
 let message = "Hello World!";
-Console.log(message);
+console.log(message);
 ```

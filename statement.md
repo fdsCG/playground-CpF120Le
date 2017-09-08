@@ -97,7 +97,7 @@ problemWithVar1();
 
 This prints `3`. Change `var` to `let` and observe the difference.
 
-The second problem is that within a function two declarations of a `var x` will in fact be the same variable `x`. For instance:
+AAAAAThe second problem is that within a function two declarations of a `var x` will in fact be the same variable `x`. For instance:
 
 ```javascript runnable
 function problemWithVar2() {

@@ -9,7 +9,7 @@ JavaScript *used to* be considered one of those "lesser" languages, kind of like
 This works because JavaScript has implicit type conversion, so it tries to make sense of what it is supposed to do when computing `1 + '2'` for instance. Also, JavaScript has an `undefined` type, which is the type of an expression that is, well, not defined, such as accessing a non-existent property or a missing argument.
 
 JavaScript has been an international standard since 1997, when it was first standardized as ECMAScript. There are several editions of ECMAScript, and the *n*th edition of ECMAScript is generally abbreviated as ES*n*: ES6 means the sixth edition (published in 2015). We will explore in a series of playgrounds the modern features of the language that will make your code more robust, concise, and easier to read.
-
+```
 In this playground, you will read about:
 
 - [`let`/`const`](#let-const)

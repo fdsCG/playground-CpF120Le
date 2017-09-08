@@ -33,7 +33,7 @@ Starting with ES5 (2009), JavaScript has a *strict mode* that does just what it 
 
 This last point is shown below:
 
-```javascript runnable abc
+```python runnable
 function succeeds() {
     // in non-strict mode, this is the global object...
     this.console.log('hello');

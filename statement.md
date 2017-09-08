@@ -153,7 +153,7 @@ const incremented = values.map(element => element + 1);
 console.log(incremented);
 ```
 
-An arrow function can either return an expression directly (as is the case here), or have a normal body with statements if it begins with `{`. This means that if you want to return an object directly you should wrap it in parentheses. An arrow function with 0 parameters or more than 1 parameter must have a list of parameters in parentheses:aaa
+An arrow function can either return an expression directly (as is the case here), or have a normal body with statements if it begins with `{`. This means that if you want to return an object directly you should wrap it in parentheses. An arrow function with 0 parameters or more than 1 parameter must have a list of parameters in parentheses:
 
 ```javascript
 const add = (x, y) => x + y;
@@ -326,7 +326,7 @@ let textES6 = `This is a long text that
 spans over multiple lines.`;
 
 assert(textES5 === textES6);
-console.log(textES6);aaa
+console.log(textES6);
 
 let person = {
     firstName: 'Sarah',
@@ -363,3 +363,4 @@ Try to remove `valueOf` or `toString` and run the code again to see the differen
 # What's next?
 
 In part 2, we will see improved object literals, the for-of loop, destructuring in declarations and assignements, and talk more about using the `...` spread operator.
+

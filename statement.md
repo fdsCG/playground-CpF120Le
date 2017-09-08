@@ -326,7 +326,7 @@ let textES6 = `This is a long text that
 spans over multiple lines.`;
 
 assert(textES5 === textES6);
-console.log(textES6);
+console.log(textES6);aaa
 
 let person = {
     firstName: 'Sarah',
